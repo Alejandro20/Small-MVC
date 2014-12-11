@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family:"Comic Sans MS", cursive;
+	background:#999;
+}
+header{
+	height: 100px;
+	background-color:#06F;
+	color:white;
+}
+
+nav{
+	background-color: #666;
+	
+}
+nav ul li{
+	display: inline-block;
+	border: 1px solid #FFF;
+	padding:10px;
+	text-align:center;
+}
+
+a{
+	color:#CCC;
+	text-decoration:none;
+}
